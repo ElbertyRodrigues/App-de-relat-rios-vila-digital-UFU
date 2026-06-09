@@ -1,8 +1,3 @@
-============================================================
-  Vila Digital UFU — Gerador de Relatório
-  Instruções completas
-============================================================
-
 ESTRUTURA DOS ARQUIVOS
 -----------------------
   app.py      → Código do aplicativo (interface + coleta + Excel)
